@@ -1,0 +1,42 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 50;
+    margin-bottom: 10px;
+}
+#searchbarblock{
+    background-color: rgb(233, 233, 233);
+    height: 110px;
+    font-size: 22px;
+    padding-top: 2px;
+}
+#box1{
+    background-color: aquamarine;
+    float: left;
+    width: 500px;
+    height: 100px;
+    padding: auto;
+    margin-right: 5px;
+}
+.boxlinks{
+    text-decoration: none;
+    list-style-type: none;
+}
+#box2{
+    background-color: rgb(75, 228, 177);
+    float: left;
+    width: 300px;
+    height: 100px;
+    padding: auto;
+}
+#box3{
+    background-color: rgb(35, 211, 152);
+    float: left;
+    width: 500px;
+    height: 100px;
+    padding: auto;
+    margin-right: 5px;
+    margin-bottom: 150px;
+}
